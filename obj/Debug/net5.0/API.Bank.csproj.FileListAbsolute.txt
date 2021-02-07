@@ -1,0 +1,16 @@
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.exe
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.deps.json
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.runtimeconfig.json
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.runtimeconfig.dev.json
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.dll
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\ref\API.Bank.dll
+C:\Users\zonaa\Music\API.Bank\bin\Debug\net5.0\API.Bank.pdb
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.csprojAssemblyReference.cache
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.AssemblyInfoInputs.cache
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.AssemblyInfo.cs
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.csproj.CoreCompileInputs.cache
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.dll
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\ref\API.Bank.dll
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.pdb
+C:\Users\zonaa\Music\API.Bank\obj\Debug\net5.0\API.Bank.genruntimeconfig.cache

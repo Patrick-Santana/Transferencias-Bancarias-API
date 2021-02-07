@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zonaa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zonaa\\.nuget\\packages"
+    ]
+  }
+}
